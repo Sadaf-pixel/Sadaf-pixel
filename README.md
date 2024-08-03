@@ -32,7 +32,7 @@ I'm a passionate software developer with a keen interest in [AI, ML, Data Analys
 
 
 ## 🌟 Projects
-- 
+- ![ORS](https://img.shields.io/badge/Online%20Recruitment%20System-8A2BE2)
 The "Online Recruitment System" is an interactive platform that connects graduates seeking job opportunities with employers looking for fresh talent. It offers comprehensive tools for profile creation, job search, application tracking, and communication. Employers can efficiently manage job postings and candidate applications, while admins oversee user management and platform integrity, ensuring a seamless and secure recruitment process.[Link](https://github.com/Sohankalburgi/Online-Recuritment)
 
 - ![Next Gen](https://img.shields.io/badge/Next%20Gen%20EV%20Charging%20System-8A2BE2)
