@@ -51,25 +51,11 @@ In recent years, the shift towards sustainability has driven the adoption of ele
 ---
 ## 🌐 Connect with me
 
-<!-- Social Media Links with Custom Styling -->
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+# Connect with Me
 
-  <a href="https://www.linkedin.com/in/sadaf-nasim-935438202/" target="_blank" 
-     style="display: inline-block; padding: 10px 20px; border: 2px solid blue; border-radius: 5px; box-shadow: 0px 4px 6px rgba(255, 255, 255, 0.5); color: white; background-color: #0077b5; text-decoration: none; font-weight: bold;">
-    LinkedIn
-  </a>
-
-  <a href="https://twitter.com/yourprofile" target="_blank" 
-     style="display: inline-block; padding: 10px 20px; border: 2px solid blue; border-radius: 5px; box-shadow: 0px 4px 6px rgba(255, 255, 255, 0.5); color: white; background-color: #1DA1F2; text-decoration: none; font-weight: bold;">
-    Twitter
-  </a>
-
-  <a href="https://github.com/Sadaf-pixel" target="_blank" 
-     style="display: inline-block; padding: 10px 20px; border: 2px solid blue; border-radius: 5px; box-shadow: 0px 4px 6px rgba(255, 255, 255, 0.5); color: white; background-color: #181717; text-decoration: none; font-weight: bold;">
-    GitHub
-  </a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadaf-pixel)
 
 
 
