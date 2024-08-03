@@ -1,8 +1,12 @@
 <!-- Embed MP4 Video -->
-<video width="600" controls>
-  <source src="https://github.com/Sadaf-pixel/Badges/blob/main/Black%20and%20Blue%20Neon%20Technology%20Video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+# Welcome to My GitHub Profile
+
+## Watch My Intro Video
+[Click here to watch my video](https://github.com/Sadaf-pixel/Badges/raw/main/Black%20and%20Blue%20Neon%20Technology%20Video.mp4)
+
+## About Me
+...
+
 
 ## Hi, I'm Sadaf Nasim! 👋
 
