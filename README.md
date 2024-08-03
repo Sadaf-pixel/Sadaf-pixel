@@ -1,11 +1,11 @@
 - # Hi, I'm [Your Name]! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourprofile)
-[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sadaf-nasim-935438202/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/ZoyaShe71557700)
+[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/sadaf-pixel)
 
 ## About Me
-I'm a passionate software developer with a keen interest in [Your Interests, e.g., Web Development, Data Science, etc.]. I love building projects that solve real-world problems and continuously learning new technologies.
+I'm a passionate software developer with a keen interest in [AI, ML, Data Analysis, Web Development, Blockchain]. I love building projects that solve real-world problems and continuously learning new technologies. I am a quick learner, always seeking opportunities to expand my knowledge . I bring a proactive and adaptable mindset to the table and committed to continuous improvement. I am eager to embrace challenges and learn from experiences also I am good at working under pressure.
 
 ## 🔧 Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -21,24 +21,24 @@ I'm a passionate software developer with a keen interest in [Your Interests, e.g
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-## 📫 How to reach me
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [twitter.com/yourprofile](https://twitter.com/yourprofile)
 
 ## 🌟 Projects
-- [Project 1](https://github.com/yourusername/project1) - A brief description of what this project is about.
-- [Project 2](https://github.com/yourusername/project2) - A brief description of what this project is about.
-- [Project 3](https://github.com/yourusername/project3) - A brief description of what this project is about.
+- [Online Recruitment System](https://github.com/Sohankalburgi/Online-Recuritment) - 
+The "Online Recruitment System" is an interactive platform that connects graduates seeking job opportunities with employers looking for fresh talent. It offers comprehensive tools for profile creation, job search, application tracking, and communication. Employers can efficiently manage job postings and candidate applications, while admins oversee user management and platform integrity, ensuring a seamless and secure recruitment process.
 
-## 🌐 Social Media
+- [Next Gen EV Charging System](https://github.com/divyangshu-19/Next-Gen-EV-Charging-System) - In recent years, the shift towards sustainability has driven the adoption of electric vehicles (EVs), but traditional EV charging platforms face challenges like lack of transparency, centralization, and inefficiency. Our team developed a blockchain-based solution to decentralize the network, ensure transparent transactions, and improve efficiency through automated smart contracts. This approach enhances user trust, system resilience, and operational effectiveness in the EV charging ecosystem.
+
+- [T20 Cricket World Cup Data Analysis](https://github.com/Sadaf-pixel/Cricket-Analysis-) - The T20 Cricket World Cup Data Analytics Series aims to select the best 11 players based on T20 World Cup data using data analytics techniques. The project involves scraping data from ESPNcricinfo, cleaning and transforming it with Python Pandas, and building Power BI dashboards for player analysis. The goal is to form a balanced team capable of scoring 180 runs and defending 150 runs, ensuring a 30-run margin.
+
+
+## 📫 How to reach me
+- Contact me : [E-Mail](mailto:snasim695@gmail.com)
 - Connect with me on: [LinkedIn](https://www.linkedin.com/in/sadaf-nasim-935438202/)
 - Follow me on: [Twitter](https://x.com/ZoyaShe71557700)
 - Collaborate with me on : [GitHub](https://github.com/Sadaf-pixel)
 
 ## 🎓 Education
 - **B Tech in CSE (IoT, Cyber Security & Blockchain Technology)**, Future Institute of Technology
-- 
 ---
 
 ⭐️ From Sadaf Nasim (https://github.com/sadaf-pixel)
@@ -65,5 +65,3 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/Sadaf-pixel/Badges/blob/main/h2s_ctc_badge.png" width="100px" height="100px" /></a>
   <img src="https://github.com/Sadaf-pixel/Badges/blob/main/unnamed.png" width="100px" height="100px" /></a>
 </div>
-
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
