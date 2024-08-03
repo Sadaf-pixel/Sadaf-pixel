@@ -8,14 +8,14 @@
 I'm a passionate software developer with a keen interest in [AI, ML, Data Analysis, Web Development, Blockchain]. I love building projects that solve real-world problems and continuously learning new technologies. I am a quick learner, always seeking opportunities to expand my knowledge . I bring a proactive and adaptable mindset to the table and committed to continuous improvement. I am eager to embrace challenges and learn from experiences also I am good at working under pressure.
 
 ## 🔧 Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
@@ -40,8 +40,6 @@ The "Online Recruitment System" is an interactive platform that connects graduat
 ## 🎓 Education
 - **B Tech in CSE (IoT, Cyber Security & Blockchain Technology)**, Future Institute of Technology
 ---
-
-⭐️ From Sadaf Nasim (https://github.com/sadaf-pixel)
 
 
 <!---
