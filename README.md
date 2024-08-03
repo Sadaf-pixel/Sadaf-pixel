@@ -51,11 +51,26 @@ In recent years, the shift towards sustainability has driven the adoption of ele
 ---
 ## 🌐 Connect with me
 
-<a href="https://www.linkedin.com/in/yourprofile/" target="_blank" style="display: inline-block; width: 120px; height: 50px; border: 2px solid #0077b5; border-radius: 8px; box-shadow: 0px 0px 10px 0px white; text-align: center; line-height: 50px; color: white; text-decoration: none; background-color: black; font-weight: bold;">LinkedIn</a>
+<!-- Social Media Links with Custom Styling -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-<a href="https://twitter.com/yourprofile" target="_blank" style="display: inline-block; width: 120px; height: 50px; border: 2px solid #1da1f2; border-radius: 8px; box-shadow: 0px 0px 10px 0px white; text-align: center; line-height: 50px; color: white; text-decoration: none; background-color: black; font-weight: bold;">Twitter</a>
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank" 
+     style="display: inline-block; padding: 10px 20px; border: 2px solid blue; border-radius: 5px; box-shadow: 0px 4px 6px rgba(255, 255, 255, 0.5); color: white; background-color: #0077b5; text-decoration: none; font-weight: bold;">
+    LinkedIn
+  </a>
 
-<a href="https://github.com/Sadaf-pixel" target="_blank" style="display: inline-block; width: 120px; height: 50px; border: 2px solid #333; border-radius: 8px; box-shadow: 0px 0px 10px 0px white; text-align: center; line-height: 50px; color: white; text-decoration: none; background-color: black; font-weight: bold;">GitHub</a>
+  <a href="https://twitter.com/yourprofile" target="_blank" 
+     style="display: inline-block; padding: 10px 20px; border: 2px solid blue; border-radius: 5px; box-shadow: 0px 4px 6px rgba(255, 255, 255, 0.5); color: white; background-color: #1DA1F2; text-decoration: none; font-weight: bold;">
+    Twitter
+  </a>
+
+  <a href="https://github.com/Sadaf-pixel" target="_blank" 
+     style="display: inline-block; padding: 10px 20px; border: 2px solid blue; border-radius: 5px; box-shadow: 0px 4px 6px rgba(255, 255, 255, 0.5); color: white; background-color: #181717; text-decoration: none; font-weight: bold;">
+    GitHub
+  </a>
+
+</div>
+
 
 
 <!---
