@@ -32,9 +32,9 @@ I'm a passionate software developer with a keen interest in [Your Interests, e.g
 - [Project 3](https://github.com/yourusername/project3) - A brief description of what this project is about.
 
 ## 🌐 Social Media
-- LinkedIn: [linkedin.com/in/sadaf-nasim](https://www.linkedin.com/in/sadaf-nasim-935438202/)
-- Twitter: [twitter.com/ZoyaShe71557700](https://x.com/ZoyaShe71557700)
-- GitHub: [github.com/sadaf-pixel](https://github.com/Sadaf-pixel)
+- Connect with me on: [LinkedIn](https://www.linkedin.com/in/sadaf-nasim-935438202/)
+- Follow me on: [Twitter](https://x.com/ZoyaShe71557700)
+- Collaborate with me on : [GitHub](https://github.com/Sadaf-pixel)
 
 ## 🎓 Education
 - **B Tech in CSE (IoT, Cyber Security & Blockchain Technology)**, Future Institute of Technology
