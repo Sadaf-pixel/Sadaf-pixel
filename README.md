@@ -46,19 +46,6 @@ In recent years, the shift towards sustainability has driven the adoption of ele
 - Follow me : [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=Sadaf%20Nasim&color=1DA1F2&logo=twitter&style=flat)](https://x.com/ZoyaShe71557700)
 - Collaborate with me : [![GitHub](https://img.shields.io/static/v1?label=GitHub&message=@Sadaf-pixel&color=181717&logo=github&style=flat)](https://github.com/Sadaf-pixel)
 
-## 🎓 Education
-- **B Tech in CSE (IoT, Cyber Security & Blockchain Technology)**, Future Institute of Technology
----
-## 🌐 Connect with me
-
-# Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadaf-pixel)
-
-
-
 <!---
 Sadaf-pixel/Sadaf-pixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
