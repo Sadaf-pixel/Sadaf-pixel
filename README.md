@@ -24,9 +24,11 @@ I'm a passionate software developer with a keen interest in [AI, ML, Data Analys
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
+
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?sadaf-pixel=sadaf-pixel&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?sadaf-pixel=sadaf-pixel&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadaf-pixel&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadaf-pixel&layout=compact&theme=radical)
+
 
 
 ## 🌟 Projects
