@@ -1,3 +1,9 @@
+<!-- Embed MP4 Video -->
+<video width="600" controls>
+  <source src="https://github.com/Sadaf-pixel/Badges/blob/main/Black%20and%20Blue%20Neon%20Technology%20Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Hi, I'm Sadaf Nasim! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sadaf-nasim-935438202/)
