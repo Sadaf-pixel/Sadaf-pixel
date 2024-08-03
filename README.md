@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Sadaf-pixel
-- 👀 I’m interested in new age technologies like Web3 , AI, ML, DL, RL etc. 
-- 🌱 I’m currently pursuing Computer Science Engineering specialised in IoT, CyberSecurity and Blockchain technology.
-- 💞️ I’m looking to collaborate on projects using new age tech stacks.
-- 📫 You can reach out to on my mail nsadaf0003@gmail.com
-
 - # Hi, I'm [Your Name]! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile/)
@@ -38,14 +32,13 @@ I'm a passionate software developer with a keen interest in [Your Interests, e.g
 - [Project 3](https://github.com/yourusername/project3) - A brief description of what this project is about.
 
 ## 🌐 Social Media
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [twitter.com/yourprofile](https://twitter.com/yourprofile)
+- LinkedIn: [linkedin.com/in/sadaf-nasim](https://www.linkedin.com/in/sadaf-nasim-935438202/)
+- Twitter: [twitter.com/ZoyaShe71557700](https://x.com/ZoyaShe71557700)
 - GitHub: [github.com/sadaf-pixel](https://github.com/Sadaf-pixel)
 
 ## 🎓 Education
 - **B Tech in CSE (IoT, Cyber Security & Blockchain Technology)**, Future Institute of Technology
--
-
+- 
 ---
 
 ⭐️ From Sadaf Nasim (https://github.com/sadaf-pixel)
