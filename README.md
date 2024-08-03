@@ -3,7 +3,7 @@
 
 <img src="https://github.com/Sadaf-pixel/Badges/raw/main/Black%20and%20Blue%20Neon%20Technology%20Video.gif" width="800" height="450" />
 
-## Hi, I'm Sadaf Nasim! 👋
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sadaf-nasim-935438202/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/ZoyaShe71557700)
