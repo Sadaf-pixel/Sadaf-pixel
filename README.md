@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sadaf-nasim-935438202/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/ZoyaShe71557700)
-[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/sadaf-pixel)
+[![GitHub](https://img.shields.io/github/followers/sadaf-pixel?label=Follow&style=social)](https://github.com/sadaf-pixel)
 
 ## About Me
 I'm a passionate software developer with a keen interest in [AI, ML, Data Analysis, Web Development, Blockchain]. I love building projects that solve real-world problems and continuously learning new technologies. I am a quick learner, always seeking opportunities to expand my knowledge . I bring a proactive and adaptable mindset to the table and committed to continuous improvement. I am eager to embrace challenges and learn from experiences also I am good at working under pressure.
@@ -43,9 +43,9 @@ In recent years, the shift towards sustainability has driven the adoption of ele
 
 ## 📫 How to reach me
 - Contact me : [E-Mail](mailto:snasim695@gmail.com)
-- Connect with me on: [LinkedIn](https://www.linkedin.com/in/sadaf-nasim-935438202/)
-- Follow me on: [Twitter](https://x.com/ZoyaShe71557700)
-- Collaborate with me on : [GitHub](https://github.com/Sadaf-pixel)
+- Connect with me : [LinkedIn](https://www.linkedin.com/in/sadaf-nasim-935438202/)
+- Follow me : [Twitter](https://x.com/ZoyaShe71557700)
+- Collaborate with me : [GitHub](https://github.com/Sadaf-pixel)
 
 ## 🎓 Education
 - **B Tech in CSE (IoT, Cyber Security & Blockchain Technology)**, Future Institute of Technology
