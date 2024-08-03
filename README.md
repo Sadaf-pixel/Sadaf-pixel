@@ -8,14 +8,18 @@
 I'm a passionate software developer with a keen interest in [AI, ML, Data Analysis, Web Development, Blockchain]. I love building projects that solve real-world problems and continuously learning new technologies. I am a quick learner, always seeking opportunities to expand my knowledge . I bring a proactive and adaptable mindset to the table and committed to continuous improvement. I am eager to embrace challenges and learn from experiences also I am good at working under pressure.
 
 ## 🔧 Skills
-
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=javascript)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=javascript)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=javascript)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
