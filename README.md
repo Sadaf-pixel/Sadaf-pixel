@@ -44,7 +44,7 @@ In recent years, the shift towards sustainability has driven the adoption of ele
 - Contact me : [![E-Mail](https://img.shields.io/badge/Email-Connect-blue?style=flat-square&logo=email)](mailto:snasim695@gmail.com)
 - Connect with me : [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Sadaf%20Nasim&color=0077B5&logo=linkedin&style=flat)](https://www.linkedin.com/in/sadaf-nasim-935438202/)
 - Follow me : [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=Sadaf%20Nasim&color=1DA1F2&logo=twitter&style=flat)](https://x.com/ZoyaShe71557700)
-- Collaborate with me : [GitHub](https://github.com/Sadaf-pixel)
+- Collaborate with me : [![GitHub](https://img.shields.io/static/v1?label=GitHub&message=@Sadaf-pixel&color=181717&logo=github&style=flat)](https://github.com/Sadaf-pixel)
 
 ## 🎓 Education
 - **B Tech in CSE (IoT, Cyber Security & Blockchain Technology)**, Future Institute of Technology
