@@ -13,7 +13,7 @@ I'm a passionate software developer with a keen interest in [AI, ML, Data Analys
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
-![pandas](https://img.shields.io/badge/-pandas-black?style=flat-square&logo=pandas)
+![Pandas](https://img.shields.io/badge/-pandas-black?style=flat-square&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=python)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -25,8 +25,8 @@ I'm a passionate software developer with a keen interest in [AI, ML, Data Analys
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?sadaf-pixel=sadaf-pixel&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?sadaf-pixel=sadaf-pixel&layout=compact&theme=radical)
 
 
 ## 🌟 Projects
