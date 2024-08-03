@@ -7,14 +7,6 @@
 ...
 
 
-## About Me
-...
-
-
-## About Me
-...
-
-
 ## Hi, I'm Sadaf Nasim! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sadaf-nasim-935438202/)
