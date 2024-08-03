@@ -54,7 +54,7 @@ In recent years, the shift towards sustainability has driven the adoption of ele
 <!-- Social Media Links with Custom Styling -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank" 
+  <a href="https://www.linkedin.com/in/sadaf-nasim-935438202/" target="_blank" 
      style="display: inline-block; padding: 10px 20px; border: 2px solid blue; border-radius: 5px; box-shadow: 0px 4px 6px rgba(255, 255, 255, 0.5); color: white; background-color: #0077b5; text-decoration: none; font-weight: bold;">
     LinkedIn
   </a>
