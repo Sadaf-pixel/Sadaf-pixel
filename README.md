@@ -3,6 +3,14 @@
 
 ## Watch My Intro Video
 [Click here to watch my video](https://github.com/Sadaf-pixel/Badges/raw/main/Black%20and%20Blue%20Neon%20Technology%20Video.mp4)
+# Welcome to My GitHub Profile
+
+## Watch My Intro Video
+[![Watch the video](https://via.placeholder.com/600x300.png?text=Watch+the+Video)](https://github.com/Sadaf-pixel/Badges/raw/main/Black%20and%20Blue%20Neon%20Technology%20Video.mp4)
+
+## About Me
+...
+
 
 ## About Me
 ...
