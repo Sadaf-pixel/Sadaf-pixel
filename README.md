@@ -41,7 +41,7 @@ In recent years, the shift towards sustainability has driven the adoption of ele
 
 
 ## 📫 How to reach me
-- Contact me : [![E-Mail](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](mailto:snasim695@gmail.com)
+- Contact me : [![E-Mail](https://img.shields.io/badge/Email-Connect-blue?style=flat-square&logo=linkedin)](mailto:snasim695@gmail.com)
 - Connect with me : [LinkedIn](https://www.linkedin.com/in/sadaf-nasim-935438202/)
 - Follow me : [Twitter](https://x.com/ZoyaShe71557700)
 - Collaborate with me : [GitHub](https://github.com/Sadaf-pixel)
