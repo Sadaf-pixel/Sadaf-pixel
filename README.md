@@ -1,7 +1,7 @@
 <!-- Embed MP4 Video -->
 # Welcome to My GitHub Profile
 
-<img src="https://github.com/Sadaf-pixel/Badges/raw/main/Black%20and%20Blue%20Neon%20Technology%20Video.gif" width="800" height="450" />
+<img src="https://github.com/Sadaf-pixel/Badges/raw/main/Black%20and%20Blue%20Neon%20Technology%20Video.gif" style="max-width: 100%; height: auto;" />
 
 
 
