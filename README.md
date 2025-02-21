@@ -1,7 +1,12 @@
 <!-- Embed MP4 Video -->
 # Welcome to My GitHub Profile
 
+<!---
+Sadaf-pixel/Sadaf-pixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 <img src="https://github.com/Sadaf-pixel/Badges/raw/main/Black%20and%20Blue%20Neon%20Technology%20Video.gif" width="800" height="450" />
+--->
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sadaf-nasim-935438202/)
