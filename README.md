@@ -61,8 +61,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <a>
-
   <img src="https://github.com/Sadaf-pixel/Badges/blob/main/AWS%20Badge.png" width="100px" height="100px" /></a>
   <img src="https://github.com/Sadaf-pixel/Badges/blob/main/Google%20Analytics%20Badge.png" width="100px" height="100px" /></a>
   <img src="https://github.com/Sadaf-pixel/Badges/blob/main/docker_badge.png" width="100px" height="100px" /></a>
